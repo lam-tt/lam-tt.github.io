@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.gfs.messenger",
+                 "sha256_cert_fingerprints": ["E9:37:55:CF:76:16:65:47:BE:A0:52:B0:A7:42:19:B1:CA:4A:C7:8C:3D:88:A4:B0:E5:7A:58:AA:28:E2:25:0B"] }
+}]
